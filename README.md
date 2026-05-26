@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Meghana
 
-<!--
-**megha571/megha571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AIML Engineering Student  
+💻 Learning Python, AI & Machine Learning  
+📍 Bangalore, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me
+
+- 🌱 Currently improving my coding skills
+- 🤖 Interested in AI, ML & Generative AI
+- 🚀 Building mini projects and applications
+- 📚 Learning Python, SQL & Data Science
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Java
+- SQL
+- HTML/CSS
+- Machine Learning
+
+---
+
+## 📌 Projects
+
+### 🚌 VidyarthiBus
+Student bus tracking application project.
+
+### 📊 AI & ML Mini Projects
+Working on beginner AI and Python projects.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/megha571
