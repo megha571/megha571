@@ -14,17 +14,6 @@
 - 📚 Learning Python, SQL & Data Science
 
 ---
-
-## 🛠️ Skills
-
-- Python
-- Java
-- SQL
-- HTML/CSS
-- Machine Learning
-
----
-
 ## 📌 Projects
 
 ### 🚌 VidyarthiBus
