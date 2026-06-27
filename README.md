@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Meghana
 
 🎓 AIML Engineering Student  
-💻 Learning Python, AI & Machine Learning  
+💻 Learning Python, AI & Machine Learning, Data Analyst
 📍 Bangalore, India  
 
 ---
@@ -19,10 +19,6 @@
 ### 🚌 VidyarthiBus
 Student bus tracking application project.
 
-### 📊 AI & ML Mini Projects
-Working on beginner AI and Python projects.
-
----
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
